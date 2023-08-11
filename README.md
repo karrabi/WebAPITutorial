@@ -60,7 +60,7 @@ When contributing, ensure your code adheres to the project's coding guidelines a
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of this license.
+This project is licensed under the [Apache2.0 License](LICENSE). You are free to use, modify, and distribute the code as per the terms of this license.
 
 ---
 
